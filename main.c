@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void){
-  printf("Editat en remot\n");
+  printf("Hola món\n");
   return 0;
 }
